@@ -3,8 +3,8 @@ ESP8266 (ESP01) relay module Alexa Integration with SinricPro service (https://p
 
 # Fix relay module v1.0
 
-**Jumping**
+### Jumping
 ![FIX 1](https://github.com/douglascarlini/esp01-relay-sinricpro/blob/main/esp01-relay-fix1.png?raw=true)
 
-**Removing Resistor**
+### Removing Resistor
 ![FIX 2](https://github.com/douglascarlini/esp01-relay-sinricpro/blob/main/esp01-relay-fix2.png?raw=true)
